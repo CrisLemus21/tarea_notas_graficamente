@@ -1,0 +1,11 @@
+C:\Users\domi2\Desktop\Nueva carpeta\notas\notas\obj\Debug\notas.csproj.AssemblyReference.cache
+C:\Users\domi2\Desktop\Nueva carpeta\notas\notas\obj\Debug\notas.Properties.Resources.resources
+C:\Users\domi2\Desktop\Nueva carpeta\notas\notas\obj\Debug\notas.csproj.GenerateResource.cache
+C:\Users\domi2\Desktop\Nueva carpeta\notas\notas\obj\Debug\notas.csproj.CoreCompileInputs.cache
+C:\Users\domi2\Desktop\Nueva carpeta\notas\notas\bin\Debug\notas.exe.config
+C:\Users\domi2\Desktop\Nueva carpeta\notas\notas\bin\Debug\notas.exe
+C:\Users\domi2\Desktop\Nueva carpeta\notas\notas\bin\Debug\notas.pdb
+C:\Users\domi2\Desktop\Nueva carpeta\notas\notas\obj\Debug\notas.exe
+C:\Users\domi2\Desktop\Nueva carpeta\notas\notas\obj\Debug\notas.pdb
+C:\Users\domi2\Desktop\Nueva carpeta\notas\notas\obj\Debug\notas.vistas.Proceso.resources
+C:\Users\domi2\Desktop\Nueva carpeta\notas\notas\obj\Debug\notas.Notas.resources
